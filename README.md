@@ -98,3 +98,9 @@ I created an interactive Excel dashboard summarizing all key insights with visua
 
 ## Conclusion
 This project helped reinforce my skills in Excel based data analysis,including cleaning, exploration an dashboarding. i look forward to extending this analysis using power BI or SQL in future projects.
+
+Attached below is my project document for your perusal.
+
+[AMAZON PRODUCT REVIEW ANALYSIS..xlsx](https://github.com/user-attachments/files/21076631/AMAZON.PRODUCT.REVIEW.ANALYSIS.xlsx)
+
+
