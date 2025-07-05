@@ -93,3 +93,5 @@ Key pivot tables and analyses included:
 
 - ## Dashboard Preview
 - 
+ ![Dashboard Preview](https://github.com/user-attachments/assets/49e4b781-775e-4ab9-92fa-6f08c08a3621)
+
