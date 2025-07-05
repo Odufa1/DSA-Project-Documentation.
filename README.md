@@ -1,5 +1,5 @@
 # DSA-Project-Documentation.
-This is a Detailed documentation of my first Data Analysis project with DSA. 
+This is a Detailed documentation of my first Data Analysis project with Incubator Hub. 
 
 I have learnt quite a number of things ranging frm Microsoft Excel, SQL, Power BI and now to my portfolio building.
 
@@ -14,4 +14,14 @@ guide product improvement, marketing strategies, and customer engagement.
 
 ### Data Source
 
-The primary souce of Data used here is Amazon Case Study.csv and this file was confidentially shared with the sole purpose of Data Analysis and getting answers to questions and solutions to answers.                                                                                                                                                                                             
+The primary souce of Data used here is Amazon Case Study.csv and this file was confidentially shared with the sole purpose of Data Analysis and getting answers to questions and solutions to problems.
+
+## Dataset Description
+
+The Dataset used in this case study contains **1,465 rows** and **16 columns**, including:
+
+- Product name, category, price, discount, rating
+- User reviews,titles, and engagement metrics
+- Each row represents a **unique product** with aggregated reviewer data
+
+---
