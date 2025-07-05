@@ -23,8 +23,6 @@ The Dataset used in this case study titled 'Amazon Case Study.cvs' contains **1,
 
 ---
 
----
-
 ## Tools Used
 
 - *Microsoft Excel*
@@ -86,12 +84,17 @@ Key pivot tables and analyses included:
 
 ---
 
+- ## Dashboard Preview
+  
+I created an interactive Excel dashboard summarizing all key insights with visuals like
+-Bar charts
+-Pie charts
+ ![Dashboard Preview](https://github.com/user-attachments/assets/49e4b781-775e-4ab9-92fa-6f08c08a3621)
+
 ##  References  
 - Dataset: Provided during DSA Academy training  
 - Tools: Microsoft Excel  
 - Business Case: RetailTech Insights Case
 
-- ## Dashboard Preview
-- 
- ![Dashboard Preview](https://github.com/user-attachments/assets/49e4b781-775e-4ab9-92fa-6f08c08a3621)
-
+## Conclusion
+This project helped reinforce my skills in Excel based data analysis,including cleaning, exploration an dashboarding. i look forward to extending this analysis using power BI or SQL in future projects.
